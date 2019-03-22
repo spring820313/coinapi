@@ -22,6 +22,9 @@ IPC  资产链
 BTG  比特黄金
 BCD  比特钻石
 BSV  比特现金分叉
+ZEN  ZenCash
+SYS
+DGB
 
 
 ETH系列：
@@ -57,3 +60,5 @@ WAVES 波币
 HSR   红烧肉
 BTM   比原
 ELA   亦来云
+XTZ   tezos
+IOST
