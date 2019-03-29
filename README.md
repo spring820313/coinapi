@@ -25,6 +25,7 @@ BSV  比特现金分叉
 ZEN  ZenCash
 SYS
 DGB
+DCR
 
 
 ETH系列：
@@ -62,3 +63,4 @@ BTM   比原
 ELA   亦来云
 XTZ   tezos
 IOST
+VSYS
