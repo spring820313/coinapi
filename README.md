@@ -26,6 +26,7 @@ ZEN  ZenCash
 SYS  
 DGB  
 DCR  
+SAFE  
 
 
 ETH系列：  
