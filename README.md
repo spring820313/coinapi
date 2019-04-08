@@ -54,6 +54,9 @@ ONG
 XRP  
 XLM  
 
+未来币系列：  
+NXT
+
 其余：  
 WICC  维基链  
 NEM   新经  
