@@ -26,7 +26,8 @@ ZEN  ZenCash
 SYS  
 DGB  
 DCR  
-SAFE  
+SAFE
+VDS
 
 
 ETH系列：  
@@ -36,6 +37,8 @@ MC   墨客币
 VET  唯链  
 TRX  波场  
 NAS  星云  
+CPCT
+
 
 BTS系列：  
 EOS  
@@ -67,5 +70,9 @@ BTM   比原
 ELA   亦来云  
 XTZ   tezos  
 IOST  
-VSYS  
+VSYS
+FIL
+COSMOS
+COINEX
+ALGORAND
   
